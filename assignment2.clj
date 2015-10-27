@@ -1,5 +1,5 @@
 ;Zachary Green
-;CS 380 Assignment2
+;CS 380 Assignment 2
 (ns assignment2)
 
 
